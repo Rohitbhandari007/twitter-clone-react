@@ -1,6 +1,6 @@
 # Real Time Twitter Clone 
 
-This backend of this project is made with Django Rest Framework [Api Repo](https://github.com/learningnoobi/twitter-api).
+This backend of this project is made with Django Rest Framework [Api Repo](https://github.com/rohitbhandari007/twitter-clone-api).
 
 
 ## Features of this project
